@@ -14,9 +14,9 @@
 
 ## 阶段 0｜第 1~4 天（10-22 周四 ~ 10-25 周日）：环境与账号
 
-- [ ] **D1 周四 10-22**（约90min）：安装 VS Code、Python 3.12（勾选 Add to PATH）、Git；注册 GitHub、DeepSeek、智谱清言账号；命令行验证 `python --version`、`git --version` 都成功
-- [ ] **D2 周五 10-23**（约60min）：`git config` 设置用户名邮箱；创建 `ai-learning-journal` 仓库，把《AI学习计划.md》和本文件推送上去（命令照抄主计划 §1.3）；注册 Hugging Face、Kaggle、Google AI Studio
-- [ ] **D3 周六 10-24**（约2h）：VS Code 装 Python 扩展；跟《简明Python教程》"入门"章节写出人生第一个 `print("hello")`；用 AI 导师提示词让它解释"什么是编程/变量"（各 20min）
+- [x] **D1 周四 10-22**（约90min）：安装 VS Code、Python 3.12（勾选 Add to PATH）、Git；注册 GitHub、DeepSeek、智谱清言账号；命令行验证 `python --version`、`git --version` 都成功
+- [x] **D2 周五 10-23**（约60min）：`git config` 设置用户名邮箱；创建 `ai-learning-journal` 仓库，把《AI学习计划.md》和本文件推送上去（命令照抄主计划 §1.3）；注册 Hugging Face、Kaggle、Google AI Studio
+- [x] **D3 周六 10-24**（约2h）：VS Code 装 Python 扩展；跟《简明Python教程》"入门"章节写出人生第一个 `print("hello")`；用 AI 导师提示词让它解释"什么是编程/变量"（各 20min）
 - [ ] **D4 周日 10-25**（约1h）：缓冲日：补齐前三天任何未完成项；通读主计划"新手常见坑"一节；（可选、电脑≥16G内存）安装 Ollama
 
 ---
